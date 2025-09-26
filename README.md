@@ -8,7 +8,7 @@ Aspiring AI/ML engineer based in the UK, currently completing Azure AI-102 and b
 - **Programming:** Python, basics of GitHub
 - **Cloud & AI:** Azure AI Services, Azure Cognitive Services
 - **Azure Learning:** Develop computer vision solutions in Azure (Awaiting Assessment), Develop natural language solutions in Azure (current), Implement knowledge mining with Azure AI Search (Next), Develop solutions with Azure AI Document Intelligence (After)
-- **Future Learning:** TensorFlow (planned), AWS (potentil)
+- **Future Learning:** TensorFlow (planned), AWS (potential)
 
 ---
 
