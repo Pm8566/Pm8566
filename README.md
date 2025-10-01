@@ -18,6 +18,7 @@ Aspiring AI/ML engineer based in the UK, currently completing Azure AI-102 and b
 
 
 ## 🏆 Azure Badges
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4b44fbc5-e5b8-47d4-858d-cf91a3fcdafd" /> Build a conversational language understanding model
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/449275bc-25d3-472c-86d5-6dc7a5d7ffe3" /> Create question answering solutions with Azure AI Language
 <img width="22" height="20" alt="image" src="https://github.com/user-attachments/assets/1e52f694-2ece-4906-b967-25b5516ac7d0" /> Analyze text with Azure AI Language
 <img width="22" height="20" alt="image" src="https://github.com/user-attachments/assets/143047d2-bfb6-448f-bdc5-8b185a26c777" /> Generate images with AI
