@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-I'm an IT professional based in Milton Keynes, currently making a deliberate transition into data science and AI engineering. I've spent the last three and a half years working in a secure IT asset processing environment where I've built data validation tools, automated recurring workflows, and developed a real appreciation for what clean, well-structured data actually looks like in practice.
+I'm an IT professional based in Milton Keynes, currently making a deliberate transition into data science and AI engineering. I've spent over four years working in a secure IT asset processing environment where I've built data validation tools, automated recurring workflows, and developed a real appreciation for what clean, well-structured data actually looks like in practice.
 
 The short version: I know how messy real-world data gets, I know what it costs when things don't reconcile, and I'm now learning the tools to do something more interesting with it.
 
@@ -10,9 +10,8 @@ The short version: I know how messy real-world data gets, I know what it costs w
 
 My background has been largely practical and Excel-heavy up to this point. I'm currently working through a structured programme of study to translate that into proper data science and engineering work:
 
-- **Python for Data Science and Machine Learning** (Jose Portilla, Udemy) — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Python for Data Science and Machine Learning** (Jose Portilla, Udemy, completed) — Pandas, NumPy, Matplotlib
 - **Complete Data Analyst Bootcamp** (Krish Naik, Udemy) — data cleaning, SQL, visualisation, real-world analytics projects
-- **AI Engineer Course 2026** (365 Careers, Udemy) — ML workflows, neural networks, model deployment
 - **n8n automation** — workflow automation and integration, with hands-on projects planned soon
 
 I'm at the stage of putting theory into practice. Projects will start appearing here shortly, beginning with automation workflows and data analysis notebooks.
@@ -22,8 +21,7 @@ I'm at the stage of putting theory into practice. Projects will start appearing 
 ## Skills
 
 **Currently learning and applying**
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Machine learning fundamentals
+- Python (Pandas, NumPy, Matplotlib)
 - SQL
 - n8n workflow automation
 
@@ -42,7 +40,7 @@ I'm at the stage of putting theory into practice. Projects will start appearing 
 
 ## Background
 
-Before moving into IT, I built up experience in training, team leadership, and operations across a few different industries. I've held roles as a Training Coordinator, Shift Leader, and Head Waiter, and I hold a Level 3 Award in Education and Training as well as a Level 3 Diploma in HR Practices.
+Before moving into IT, I built up experience in training, team leadership, and operations across a few different industries. I've held roles as a Training Coordinator, Shift Leader, and Head Waiter, and I hold a Level 3 Award in Education and Training as well as a CIPD Level 3 Diploma in HR Practices.
 
 What carries across from all of that: I'm comfortable explaining technical things to non-technical people, I'm used to working in environments where accuracy matters, and I don't need to be told twice how to prioritise.
 
@@ -56,10 +54,6 @@ I'm building this portfolio incrementally as I work through my studies. On the r
 - Automation workflows built in n8n
 - End-to-end ML projects from data cleaning through to model evaluation
 - Visualisation projects using Matplotlib and Seaborn
-
-## Personal Side Project
-
-Building my own personal AI to run locally and built around my three non-negotiable pillars (Complete privacy, Security, and Zero-Cost)
 
 ---
 
