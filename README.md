@@ -48,9 +48,9 @@ Running a team means I spot the repetitive, error-prone jobs first — and I've 
 ## 🗺️ What's Coming
 
 1. **CV-as-code** — automated, proof-backed CV (in progress first)
-2. **ITAD data analysis** — a realistic simulated ITAD dataset in SQLite, analysed with SQL
-3. **Job-search automation** — an n8n pipeline that finds, scores and tracks job listings
-4. **Power BI dashboard** — on the ITAD dataset
+2. **SQL practice from my phone** — a daily question that GitHub checks automatically and logs
+3. **Skills Radar** — a self-hosted pipeline that reads UK data & AI job ads with a local LLM and shows which skills the market wants
+4. **ITAD data analysis** — a realistic simulated ITAD dataset, analysed with SQL
 
 Each one lands here with a README explaining what it does and why I built it that way.
 
