@@ -1,32 +1,33 @@
 # Hi, I'm Paul 👋
 
-I'm an IT professional based in Milton Keynes, currently making a deliberate transition into data science and AI engineering. I've spent over four years working in a secure IT asset processing environment where I've built data validation tools, automated recurring workflows, and developed a real appreciation for what clean, well-structured data actually looks like in practice.
+I'm the person who sees a spreadsheet being filled in by hand every Friday and quietly can't let it go.
 
-The short version: I know how messy real-world data gets, I know what it costs when things don't reconcile, and I'm now learning the tools to do something more interesting with it.
+For over four years I've worked in IT asset disposition (ITAD) in Milton Keynes — the secure, slightly unglamorous world of wiping, testing and reselling thousands of devices. I now lead a team of 10 there, and along the way I taught myself to build the tools we run on: Excel and Power Query automations that cut our stock-take from **a week to half a day** and sale-document prep from **an hour to minutes**.
 
----
-
-## What I'm Working On
-
-My background has been largely practical and Excel-heavy up to this point. I'm currently working through a structured programme of study to translate that into proper data science and engineering work:
-
-- **Python for Data Science and Machine Learning** (Jose Portilla, Udemy, completed) — Pandas, NumPy, Matplotlib
-- **Complete Data Analyst Bootcamp** (Krish Naik, Udemy) — data cleaning, SQL, visualisation, real-world analytics projects
-- **n8n automation** — workflow automation and integration, with hands-on projects planned soon
-
-I'm at the stage of putting theory into practice. Projects will start appearing here shortly, beginning with automation workflows and data analysis notebooks.
+Now I'm turning that habit into a career: **AI automation**. This profile is where I'm building it in public — one honest, working project at a time.
 
 ---
 
-## Skills
+## 🔧 What I'm Working On
 
-**Currently learning and applying**
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- n8n workflow automation
+- **This CV, as code** — my first project: a GitHub-hosted pipeline that rebuilds my CV every time I finish something, and only lists skills I can prove. (This profile will be generated from it too.)
+- **SQL, daily** — timed practice to get properly fluent
+- **Complete Data Analyst Bootcamp** (Krish Naik, Udemy) — in progress
+
+---
+
+## 🧰 Skills
+
+**Learning and applying**
+- Python — foundational (Pandas, NumPy, Matplotlib, Jupyter)
+- SQL — foundational (SELECT, WHERE, GROUP BY; joins next)
+- n8n workflow automation — running my own self-hosted instance
+- Git & GitHub
+- Snowflake — Hands-On Essentials Badges 1 & 5
 
 **Established through work**
-- Advanced Excel (Pivot Tables, VLOOKUP, COUNTIF, IF logic, data validation)
+- Advanced Excel (XLOOKUP, pivot tables, conditional formatting, data validation)
+- Power Query
 - Data comparison, reconciliation and quality checking
 - Command-line tools and process automation
 - Technical documentation
@@ -38,29 +39,29 @@ I'm at the stage of putting theory into practice. Projects will start appearing 
 
 ---
 
-## Background
+## 🧭 Why Me, Why Automation
 
-Before moving into IT, I built up experience in training, team leadership, and operations across a few different industries. I've held roles as a Training Coordinator, Shift Leader, and Head Waiter, and I hold a Level 3 Award in Education and Training as well as a CIPD Level 3 Diploma in HR Practices.
-
-What carries across from all of that: I'm comfortable explaining technical things to non-technical people, I'm used to working in environments where accuracy matters, and I don't need to be told twice how to prioritise.
+Running a team means I spot the repetitive, error-prone jobs first — and I've already proved I'll build the fix rather than live with it. I'm also a qualified trainer (**Level 3 Award in Education and Training**) with a **CIPD Level 3 Diploma in HR Practices**, so I care about tools people actually *use*, and I can explain them to the people who use them.
 
 ---
 
-## What's Coming
+## 🗺️ What's Coming
 
-I'm building this portfolio incrementally as I work through my studies. On the roadmap:
+1. **CV-as-code** — automated, proof-backed CV (in progress first)
+2. **ITAD data analysis** — a realistic simulated ITAD dataset in SQLite, analysed with SQL
+3. **Job-search automation** — an n8n pipeline that finds, scores and tracks job listings
+4. **Power BI dashboard** — on the ITAD dataset
 
-- Data analysis notebooks using real datasets
-- Automation workflows built in n8n
-- End-to-end ML projects from data cleaning through to model evaluation
-- Visualisation projects using Matplotlib and Seaborn
-
----
-
-If you're here from a job application or just want to follow along as things develop, feel free to reach out.
+Each one lands here with a README explaining what it does and why I built it that way.
 
 ---
 
-## Get in Touch
+## 🖥️ Behind the Scenes
 
-📧 PTM18911@gmail.com
+All of this runs on my own Ubuntu machine: n8n self-hosted in Docker, private remote access over Tailscale, and automatic backups with failure alerts sent to my phone. Small setup, real automation.
+
+---
+
+## 🤝 Get in Touch
+
+Find me on [LinkedIn](https://www.linkedin.com/in/pm8566) — always happy to talk automation, data, or ITAD.
