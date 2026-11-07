@@ -10,8 +10,7 @@ Now I'm turning that habit into a career: **AI automation**. This profile is whe
 
 ## 🔧 What I'm Working On
 
-- **This CV, as code** — my first project: a GitHub-hosted pipeline that rebuilds my CV every time I finish something, and only lists skills I can prove. (This profile will be generated from it too.)
-- **SQL, daily** — timed practice to get properly fluent
+- **SQL practice from my phone** — first project: a daily question GitHub checks and logs automatically
 - **Complete Data Analyst Bootcamp** (Krish Naik, Udemy) — in progress
 
 ---
@@ -47,10 +46,9 @@ Running a team means I spot the repetitive, error-prone jobs first — and I've 
 
 ## 🗺️ What's Coming
 
-1. **CV-as-code** — automated, proof-backed CV (in progress first)
-2. **SQL practice from my phone** — a daily question that GitHub checks automatically and logs
-3. **Skills Radar** — a self-hosted pipeline that reads UK data & AI job ads with a local LLM and shows which skills the market wants
-4. **ITAD data analysis** — a realistic simulated ITAD dataset, analysed with SQL
+1. **SQL practice from my phone** — a daily question that GitHub checks automatically and logs
+2. **Skills Radar** — a self-hosted pipeline that reads UK data & AI job ads with a local LLM and shows which skills the market wants
+3. **ITAD data analysis** — a realistic simulated ITAD dataset, analysed with SQL
 
 Each one lands here with a README explaining what it does and why I built it that way.
 
