@@ -4,7 +4,7 @@ I'm the person who sees a spreadsheet being filled in by hand every Friday and q
 
 For over four years I've worked in IT asset disposition (ITAD) in Milton Keynes — the secure, slightly unglamorous world of wiping, testing and reselling thousands of devices. I now lead a team of 10 there, and along the way I taught myself to build the tools we run on: Excel and Power Query automations that cut our stock-take from **a week to half a day** and sale-document prep from **an hour to minutes**.
 
-Now I'm turning that habit into a career: **AI automation**. This profile is where I'm building it in public — one honest, working project at a time.
+Now I'm turning that habit into a career: I'm working towards becoming an **Automation Developer**, building and maintaining the automations that take repetitive work off people's plates. This profile is where I'm building it in public — one honest, working project at a time.
 
 ---
 
@@ -47,8 +47,8 @@ Running a team means I spot the repetitive, error-prone jobs first — and I've 
 ## 🗺️ What's Coming
 
 1. **SQL practice from my phone** — a daily question that GitHub checks automatically and logs
-2. **Skills Radar** — a self-hosted pipeline that reads UK data & AI job ads with a local LLM and shows which skills the market wants
-3. **ITAD data analysis** — a realistic simulated ITAD dataset, analysed with SQL
+2. **ITAD data analysis** — a realistic simulated ITAD dataset, analysed with SQL and a Power BI dashboard
+3. **Skills Radar** — a self-hosted pipeline that reads UK data & AI job ads with a local LLM and shows which skills the market wants
 
 Each one lands here with a README explaining what it does and why I built it that way.
 
